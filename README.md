@@ -12,3 +12,6 @@ function CommandOptionType(type)
 - `USER`
 - `CHANNEL`
 - `ROLE`
+- `MENTIONABLE`
+- `NUMBER`
+- `ATTACHMENT`
