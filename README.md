@@ -17,6 +17,8 @@ function CommandOptionType(OptionType)
 - `NUMBER`
 - `ATTACHMENT`
 
+--------------------
+
 <h3>CommandType</h3>
 
 Parse Command Permission Type String To Command Type Number
@@ -27,6 +29,8 @@ function CommandType(ApplicationCommandType)
 - `CHAT_INPUT`
 - `USER`
 - `MESSAGE`
+
+--------------------
 
 <h3>CommandPermissionType</h3>
 
