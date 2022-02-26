@@ -29,7 +29,11 @@ function CommandType(ApplicationCommandType)
 - `MESSAGE`
 
 <h3>CommandPermissionType</h3>
+
 Parse Command Type String To Command Permission Type Number
 ```js
 function CommandPermissionType(CommandPermissionType)
 ```
+`CommandPermissionType` (String) :
+- `ROLE`
+- `USER`
