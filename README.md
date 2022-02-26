@@ -1,5 +1,6 @@
 # UtilityHelper
 
 ````js
-function CommandOptionType()```
+function CommandOptionType()
+```
 - `SUB_COMMAND`
