@@ -19,7 +19,7 @@ function CommandOptionType(OptionType)
 
 <h3>CommandType</h3>
 
-Parse Command Type String To Command Type Number
+Parse Command Permission Type String To Command Type Number
 ```js
 function CommandType(ApplicationCommandType)
 ```
@@ -27,3 +27,9 @@ function CommandType(ApplicationCommandType)
 - `CHAT_INPUT`
 - `USER`
 - `MESSAGE`
+
+<h3>CommandPermissionType</h3>
+Parse Command Type String To Command Permission Type Number
+```js
+function CommandPermissionType(CommandPermissionType)
+```
