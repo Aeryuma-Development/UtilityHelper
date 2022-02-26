@@ -1,6 +1,6 @@
 <h3>CommandOptionType</h3>
 
-Parse Option Type String To Option Type Nunber
+Parse Option Type String To Option Type Number
 ```js
 function CommandOptionType(OptionType)
 ```
@@ -19,7 +19,7 @@ function CommandOptionType(OptionType)
 
 <h3>CommandType</h3>
 
-Parse Command Type String To Command Type Nunber
+Parse Command Type String To Command Type Number
 ```js
 function CommandType(ApplicationCommandType)
 ```
