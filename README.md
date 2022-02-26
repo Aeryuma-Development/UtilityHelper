@@ -1,4 +1,5 @@
 <h3>CommandOptionType</h3>
+
 ```js
 function CommandOptionType(type)
 ```
