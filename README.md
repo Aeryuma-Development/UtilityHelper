@@ -1,7 +1,14 @@
 # UtilityHelper
 
 ```js
-function CommandOptionType()
+function CommandOptionType(type)
 ```
-
+`type` :
 - `SUB_COMMAND`
+- `SUB_COMMMAND_GROUP`
+- `STRING`
+- `INTEGER`
+- `BOOLEAN`
+- `USER`
+- `CHANNEL`
+- `ROLE`
