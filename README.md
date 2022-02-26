@@ -1,6 +1,6 @@
 # UtilityHelper
 
-````js
+```js
 function CommandOptionType()
 ```
 
